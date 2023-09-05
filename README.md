@@ -1,4 +1,4 @@
-# Kitchen Sink [![renovate-app badge][renovate-badge]][renovate-app] [![semantic-release][semantic-image] ][semantic-url]
+<!-- # Kitchen Sink [![renovate-app badge][renovate-badge]][renovate-app] [![semantic-release][semantic-image] ][semantic-url]
 
 This is an example app used to showcase [Cypress.io](https://www.cypress.io/) testing. The application uses every API command in Cypress for demonstration purposes. Additionally this example app is configured to run tests in various CI platforms. The [tests](https://github.com/cypress-io/cypress-example-kitchensink/tree/master/cypress/e2e) are also heavily commented. For a full reference of our documentation, go to [docs.cypress.io](https://docs.cypress.io/).
 
@@ -141,4 +141,4 @@ Check out the [Contributing Guideline](/CONTRIBUTING.md).
 ## Changelog
 
 - after v1.0.4 at [cypress-example-kitchensink/releases](https://github.com/cypress-io/cypress-example-kitchensink/releases)
-- before at [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
+- before at [CHANGELOG_OLD.md](CHANGELOG_OLD.md) -->
